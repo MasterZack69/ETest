@@ -1,6 +1,6 @@
 [
   {
-    "question": "SEGV_SECRET",
+    "question": SEGV_SECRET,
     "options": [
       "to",
       "prevent",
