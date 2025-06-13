@@ -233,7 +233,7 @@ class EnglishTest {
                 const optionDiv = document.createElement('div');
                 optionDiv.className = 'incorrect-option';
                 
-                // Apply appropriate styling based on user answer and correct answer
+                
                 if (optionIndex === item.userAnswer && optionIndex === item.correctAnswer) {
                     // This shouldn't happen in incorrect questions, but just in case
                     optionDiv.classList.add('correct-answer');
@@ -301,13 +301,4 @@ class EnglishTest {
 // Initialize the test when DOM is loaded
 document.addEventListener('DOMContentLoaded', () => {
     new EnglishTest();
-});
-
-// Handle page refresh/close warnings
-window.addEventListener('beforeunload', (e) => {
-    if (window.englishTest && !window.englishTest.isTestCompleted) {
-        e.preventDefault();
-        e.returnValue = 'Are you sure you want to leave? Your progress will be lost.';
-        return e.returnValue;
-    }
 });
