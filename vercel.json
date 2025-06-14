@@ -1,0 +1,9 @@
+{
+  "redirects": [
+    {
+      "source": "/etest.json",
+      "destination": "/fuckyou.json",
+      "permanent": false
+    }
+  ]
+}
