@@ -1,0 +1,29 @@
+// vercel.json - Advanced firewall configuration
+{
+  "firewall": {
+    "rules": [
+      {
+        "src": "/etest.json",
+        "status": "403",
+        "has": [
+          {
+            "type": "header",
+            "key": "user-agent",
+            "value": ".*(bot|crawler|spider).*"
+          }
+        ]
+      },
+      {
+        "src": "/etest.json",
+        "status": "403",
+        "unless": [
+          {
+            "type": "header", 
+            "key": "x-api-key"
+          }
+        ]
+      }
+    ]
+  }
+ 
+}
