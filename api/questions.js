@@ -37,10 +37,6 @@ export default function handler(req, res) {
         const questions = JSON.parse(decrypted.toString());
 
         
-        if (!req.headers.authorization) {
-            return res.status(401).json({ error: 'Unauthorized' });
-        }
-
         // Return decrypted questions
         res.status(200).json(questions);
 
