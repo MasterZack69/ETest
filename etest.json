@@ -1,15 +1,483 @@
 [
   {
-    "question": "QUESTION",
+    "question": "School - Fish \nAmbush - Tiger \nMurder - Crow \n Parliament - ?",
     "options": [
-      "this thing",
-      "is here",
-      "to tell you",
-      "how this page",
-      "works and looks"
+      "Dolphin",
+      "Pigeon",
+      "Lynx", 
+      "Beer",
+      "None of the above"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Left hand side is the collective noun area and right hand side is the common noun area. A group of owls is referred to as a 'parliament', as owls are considered wise in Greek mythology."
+  },
+  {
+    "question": "This item looks ___. I wonder ___ it is.",
+    "options": [
+      "weird, who's",
+      "suspicious, who's",
+      "suspicious, whose",
+      "Both B and C", 
+      "All of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Who's stands for 'who is' or 'Who has', depending upon the context. Whose is the possesive form of Who. Both 'weird' and 'suspicious' are fine for describing an item."
+  },
+  {
+    "question": "Which one of the sentences below is correct?",
+    "options": [
+      "They are my friends and I will die for them if I need to.",
+      "They are my friends and I will die for them if I have to.",
+      "They are my friends and I will die for them if need be.",
+      "They are my friends and I will die for them if that's what it takes.",
+      "All of the above"
+    ]
+  ,
+  "correctAnswer": 4,
+  "explanation": "\nA focuses a bit more on necessity.  \nB tells us about the compulsion of the situation. \nC is a more formal and a bit archaic version of A. \nD most perfectly frames sacrifice as a means to an end."
+  },
+  {
+    "question": "It was the best night of my life. That magician did some really ___ tricks.",
+    "options": [
+      "protracted",
+      "stupendous",
+      "horrendous",
+      "concise",
+      "All of these"
+      ],
+      "correctAnswer": 1,
+      "explanation": "Stupendous means impressive. Protracted means prolonged. Horrendous means very bad. Concise means brief."
+  },
+  {
+    "question": "Freeze - Frozen \nMake - Made \nKill - Killed \nWake - ?",
+    "options": [
+      "Woke",
+      "Woken",
+      "Awoken",
+      "Awaken",
+      "None of the above"
+    ],
+    "correctAnswer" : 1,
+    "explanation": "\nWoken is the  widely used past participle of Wake. \nWaked is also a past participle of Wake in archaic and different dialects but its usage is very rare. \nWoke is the simple past form of Wake. \nAwoken and Awaken are formed from Awake."
+  },
+  {
+    "question": "A circle has ___",
+    "options": [
+      "an infinite amount of radius",
+      "an infinite amount of radii",
+      "an infinite number of radius",
+      "an infinite number of radii",
+      "All of the above"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Amount is used for uncountable noun, such as amount of water or amount of grief. Number is used for countable noun, such as number of apples and number of bananas. If you are confusing the countable noun with 'infinite' number of radii and thinking how is it countable, you should read the Wikipedia page on what actually a countable noun is. Lastly, radii is used here because plural number of radius in a circle."
+  },
+  {
+    "question": "Fit the word 'only' in this sentence :- \nI Will have sex with the person I love.",
+    "options": [
+      "I will have sex only with the person I love.",
+      "I will only have sex with the person I love.",
+      "I will have sex with only the person I love.",
+      "I will have sex with the person I love only.",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "explanation" : "Only is a very flexible word. It can be used almost everywhere in a sentence. All sentences above are correct, only the emphasis with each one is different. \nA emphasises the partner. \nB emphasises the act of having sex. \nC emphasises basically the same as A. \nD emphasises the whole sentence and sounds a bit uncommon+awkward but it remains grammatically correct."
+  },
+  {
+    "question": "___ you ___ me, call me ___ this number.",
+    "options": [
+      "Whenever, need, at",
+      "if, ever need, at",
+      "whenever, require, on",
+      "if, ever require, at",
+      "All of the above"
     ],
     "correctAnswer": 0,
-    "explanation": "understandable i think"
+    "explanation" : "First letter of any sentence is supposed to be a capital letter. If B, C and D had their first letters in capital, the answer would have been all of the above."
+  },
+  {
+    "question": "Since yesterday you have been giving excuses and ___ your work. I ___!",
+    "options": [
+      "postponed, have had enough",
+      "postponing, had enough",
+      "postponing, have had enough",
+      "postponed, had enough",
+      "None of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation":"The first sentence is in Present Perfect Continuous, hence you are supposed to use postponing not postponed because that would be simple past. 'have been postponing' would be correct but just postponing is not incorrect either because it still implies that the postponing is still happening. Have had enough is present perfect and is correct as it is the most common and natural way to express an accumulated feeling that began in the past."
+  },
+  {
+    "question":"What is the adverb form of brave?",
+    "options": [
+      "Bravely",
+      "Bravest",
+      "Bravery",
+      "Brave",
+      "Both A and B"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Adverb describes either a verb or whole sentence depending on how you use it. Bravely is the adverb form of Brave. Bravery is an abstract noun. Bravest is a superlative adjective. Brave is both adjective and verb depending on the context."
+  },
+  {
+    "question": "Wæter - Water \nScōl - School \nBlōd - Blood \nDēaþ - ?",
+    "options" : [
+      "Death",
+      "Dead",
+      "Deaf",
+      "Deep",
+      "Both A and B"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Left ones are the old English words. Right ones are the modern English words.  "
+  },
+  {
+    "question": "Good morrow, pilgrim. ___ eyes be fair indeed.",
+    "options": [
+      "Thy",
+      "Thine",
+      "Thou",
+      "Ye",
+      "None of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Thy is a determiner used before a consonant sound. Thine is the correct determiner here because it is used before a vowel sound. Thou and Ye mean basically 'You', however they are much more complex with the usage so you might want to read more in detail."
+  },
+  {
+    "question": "I ___ him ___ I could join the team.",
+    "options": [
+      "asked, whether",
+      "asked, if",
+      "questioned, about whether",
+      "inquired of, if",
+      "All of the above"
+    ],
+    "correctAnswer": 4,
+    "explanation": "\nA and B are direct and more commonly used. \nC is intensive. \nD is formal."
+  },
+  {
+    "question": "Point out the preposition in this sentence:- \nWhom is this handsome-looking man waiting for?",
+    "options": [
+      "Whom",
+      "for",
+      "this",
+      "man",
+      "handsome-looking"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dude, you don't know what a preposition is?"
+  },
+  {
+    "question": "An antonym of Shrewd is:-",
+    "options": [
+      "Stupid",
+      "Clever",
+      "Charming",
+      "Rude",
+      "Killer"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Shrewd is used to describe those who have sharp judgement. Shrewd also means piercingly cold in archaic. Antonym are words with opposite meaning."
+  },
+  {
+    "question": "Which one of them is an adjective?",
+    "options": [
+      "Love",
+      "Poverty",
+      "Bromance",
+      "Tangible",
+      "Indefinitely"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Adjectives are those words which are used to describe both noun and pronoun. Love can be used as both verb and noun depending on the context. Poverty is an abstract noun. Bromance is an informal noun. Indefinitely is an adverb."
+  },
+  {
+    "question": "Who are non-vegetarians? \nPeople who commonly eat meat. For example, Muslims are ___",
+    "options": [
+      "common meat eaters",
+      "common meateaters",
+      "common meat-eaters",
+      "Both A and C",
+      "All of the above"
+      ],
+      "correctAnswer": 4,
+      "explanation": "Meat eaters, meat-eaters and meateaters are all recognised nouns from reputed dictionaries."
+  },
+  {
+  "question": "Once upon a time, foreigners came to our land. Among them, a group of ___ ten people ___ stuck in a cave. Then, they ___ behaving like a bunch of children. One person among them had taken a look and ___ there ___.",
+  "options": [
+    "roughly, got, had been, found that, is no way out",
+    "no more then, found itself, were, realised, was no way out",
+    "around, found themselves to be, had been, had realised, is no leaving here",
+    "around, found themselves, were, realised that, was no way out",
+    "None of these"
+  ],
+  "correctAnswer": 3,
+  "explanation": "In A, there is tense inconsistency. The conclusion is supposed to be in the past tense just like the whole narrative. \nIn B, there is a clear spelling error. If you can't point out that spelling error then go get an eye checkup. \nIn C, once again the tense inconsistency. \nD is correct as it has a consistent use of past tense. Themselves is perfect to use because the focus is more on the individuals. \nHad realised is a redundent use of had, the 'had' written before 'taken' is enough for those two verbs. The use of 'had been behaving' implies that this action started before the main event, before they were even stuck in a cave. Using 'itself' with group is correct but then it would have created pronoun inconsistency as the next sentence uses 'they'."
+  },
+  {
+    "question": "It is ___ impolite to ___ a lady wait.",
+    "options": [
+      "endomaniacly, have",
+      "awfuly, make",
+      "generally considered, lucriate",
+      "palpatly, make",
+      "None of these"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Endomaniacly, lucriate and palpatly are not real words. B has a spelling mistake."
+  },
+  {
+    "question": "Choose the correct cardinal adjective:-",
+    "options": [
+      "Beautiful",
+      "7",
+      "Tall",
+      "First",
+      "Magical"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cardinal adjectives are used to describe the number of subject or object there are. Ordinal adjectives show position or order as shown in option D. Beautiful and magical are quality adjectives."
+  },
+  {
+    "question": "This just came in this morning. Russia had a meeting last night and is planning to bombard us next week. The information this listening device ___ is ___.",
+    "options": [
+      "contains, obsolete",
+      "has, concrete",
+      "contains, trifling",
+      "has, trivial",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Usage of both 'contains' and 'has' is correct here. Concrete in some context means strong and reliable, a perfect adjective to information. Obsolete means outdated. Both trifling and trivial share the meaning 'of little importance'."
+  },
+  {
+    "question": "___ has brought us together, our lives are ___.",
+    "options": [
+      "Fate, intertwined",
+      "Destiny, interwined",
+      "The universe, disparated",
+      "This world, myriad",
+      "None of these"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Intertwined is the correct spelling. Usage of fate, destiny etc. are correct and depends upon the choice of the speaker/writer. Disparated means unlike. Myriad means countless."
+  },
+  {
+    "question": "When I heard about it, I came ___.",
+    "options": [
+      "as fast as I possibily could",
+      "as soon as I can",
+      "as fast as I can",
+      "as quickly as possible",
+      "None of these"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Possibly is the correct spelling. The tense in B and C doesn't match the tense of the sentence in question. D has no problem at all."
+  },
+  {
+    "question": "Lily tells Marshall, \"I dreamt about having sex with Ranjit\". \nRewrite the above sentence as indirect speech:-",
+    "options": [
+      "Lily had told Marshall she dreamt about having sex with Ranjit.",
+      "Lily was telling Marshall that she had dreamt about having sex with Ranjit.",
+      "Lily told Marshall she dreamt about having sex with Ranjit.",
+      "Lily told Marshall that she had dreamt about having sex with Ranjit.",
+      "Lily had told Marshall she had dreamt about having had sex with Ranjit."
+    ],
+    "correctAnswer": 3,
+    "explanation": "When rewriting direct speech to indirect speech, there are rules which you are supposed to follow. First you start from the beginning, here \"Lily tells Marshall\" is in simple present tense. When rewriting to indirect speech, you are supposed to change simple present tense to simple past tense. A conjunction such as 'that' is preferable but not necessary in all kinds of sentences. Next, \"I dreamt about\" is in simple past tense and the pronoun is first person. Here, you will change the pronoun from first person to third person and then you will change the tense from simple past to past perfect. The following sentence is merely extra information. It's not the action, the subject or the object of the sentence and hence doesn't require any change."
+  },
+  {
+    "question": "Zack asked Aarav if he remembered the day when Zack had told him that he would be euthanized. \n Change the above sentence to direct speech:-",
+    "options": [
+      "Zack asked Aarav does he remember the day when Zack told him he would be euthanized.",
+      "Zack asks Aarav, \"Do you remember the day when I had told you that you would be euthanized\".",
+      "Zack asks Aarav, \"Do you remember the day when I told you that you would be euthanized\".",
+      "Zack asks Aarav, \"Do you remember the day when I said you will be euthanized\".",
+      "None of these"
+    ],
+    "correctAnswer": 2,
+    "explanation": "When rewriting indirect speech to direct speech, there are rules which we must follow. First of all, a comma after who tells who and double inverted commas to enclose the main speech are necessary. Starting from the beginning, \"Zack asked Aarav\" is in simple past tense. We are supposed to change it to simple present. We remove the conjunction 'if' because the other sentence is now enclosed with quotation marks. The following words up until 'when' are then changed from simple past to simple present and the pronouns are changed from third person to first person. In direct speech, we use simple past tense instead of past perfect when referring to a past event. Because of that, the tense gets changed from past perfect to simple past after the usage of 'when'. What about the sentence after 'that'? You would be euthanized remains unchanged as Zack is recollecting a past memory where he might've said you will be euthanized. Even if he had said you would be euthanized the time he actually told this to Aarav, Zack might've just used the original sentence this time for a more dramatic approach."
+  },
+  {
+    "question": "Synonym of Infuriate:- ",
+    "options": [
+      "Rile",
+      "Cleave",
+      "Nick",
+      "Sot",
+      "All of the above"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Infuriate means to annoy/madden/irritate someone. Rile is similar to that. Cleave and Nick are synonyms of Cut. Sot refers to a drunk person."
+  },
+  {
+    "question": "Which one of these sentences uses the gerund form of 'Eat'?",
+    "options" :[
+      "You should eat something.",
+      "Yesterday, I was eating at that restaurant.",
+      "Eating is a natural behaviour.",
+      "Try to eat.",
+      "None of these"
+    ],
+    "correctAnswer": 2,
+    "explanation": "Gerund is a verb+ing used as a noun. \nIn A, eat is used as simple verb. \nIn B, eat is in past continuous. \nIn C, it is being perfectly used as a gerund. \nIn D, it is being used as an infinitive."
+  },
+  {
+    "question": "Which one of these words is the most closely related to aviary?",
+    "options": [
+      "Tremendous",
+      "Columbary",
+      "Cemetery",
+      "Institution",
+      "Frustrating"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Aviary means an enclosed space where birds are kept. Columbary means a pigeon house. I do not think if it is necessary to explain all those other words."
+  },
+  {
+    "question": "A billion years is called ___ and a thousand years is called ___.",
+    "options": [
+      "a millennia, a millennium",
+      "an eon, a millennia",
+      "a millennium, an eon",
+      "a millennium, a millennia",
+      "an eon, a millennium"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Eon = 1 Billion Years \nMillenium = 1000 Years \nMillennia is the plural form of Millennium."
+  },
+  {
+    "question": "What punctuations a person can use to describe a pause in a sentence?",
+    "options": [
+      "(--), (---), (—),( –)",
+      "(——), (--), (-), (–)",
+      "(–––), (—), (–—), (__)",
+      "(–), (- -), (— ), (– -)",
+      "None of these"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Double hyphens, triple hyphens, an unspaced em dash and an en dash with space on either side. Any of these can be used to describe a pause in the sentence. "
+  },
+  {
+    "question": "A ___ equals to a cent and a ___ equals to ___.",
+    "options": [
+      "penny, cent, 5 nickels",
+      "nickel, cent, a penny",
+      "penny, nickel, 5 cents",
+      "cent, nickel, 10 cents",
+      "nickel, nickel, 2 pennies"
+    ],
+    "correctAnswer": 2,
+    "explanation": "1 Penny = 1 Cent \n1 Nickel = 5 Pennies = 5 Cents"
+  },
+  {
+    "question": "Aarav exclaims happily, \"I drink the blood of Jews every morning!\" \nChange the above sentence into indirect speech:-" ,
+    "options": [
+      "Aarav exclaimed happily that he had drank the blood of Jews every morning.",
+      "Aarav exclaimed happily that he drank the blood of Jews every morning.",
+      "Aarav exclaimed happily that he drinks the blood of Jews every morning.",
+      "All of the above",
+      "None of the above"
+    ],
+    "correctAnswer": 2,
+    "explanation": "No change in the tense of 'drinks the blood of jews' because it's his habitual activity."
+  },
+  {
+    "question": "___ to me, she was ___ at the ceremony.",
+    "options": [
+    "Unbeknownst, hermitian",
+    "Hermitian, unbeknownst",
+    "surprising, charming",
+    "Unbeknownst, poised",
+    "All of the above"
+    ],
+  "correctAnswer": 3,
+  "explanation": "Poised means to have presented oneself in a calm manner. Unbeknownst means without the knowledge of (someone). Read about the Hermitian Matrix. In C, the first letter of surprising is in lowercase."
+  },
+  {
+    "question": "An oncologist is a doctor who specialises in ___.",
+    "options": [
+     "the cardiovascular system",
+     "blood or blood-related disorders",
+     "kidney care and kidney-related diseases",
+     "the female reproductive health",
+     "None of the above"
+    ],
+    "correctAnswer": 4,
+    "explanation": "An oncologist specialises in the treatment and diagnosis of cancer. \nA cardiologist specialises in the cardiovascular system. \nA haematologist specialises in blood, blood-related and bone marrow disorders. \nA nephrologist specialises in kidney and its related diseases. \nA gynaecologist specialises in the female reproductive health."
+  },
+  {
+    "question": "You should try to believe in him as he has accepted your circumstances. \nPoint out the main verb and the transitive verb here:-",
+    "options": [
+      "main -> to believe, transitive -> try",
+      "main -> try, transitive -> try",
+      "main -> to believe, transitive -> accepted",
+      "main -> try, transitive -> accepted",
+      "main -> accepted, transitive -> to believe"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Main verb is main verb. To believe is in infinitive. Transitive verb is a verb that requires a direct object to complete its action. Without an object, you will need to ask 'accept what?'"
+  },
+  {
+    "question": "Synonym of docile:-",
+    "options": [
+      "Visage",
+      "Disobedient",
+      "Distinguishable",
+      "Repressive",
+      "Submissive"
+    ],
+    "correctAnswer": 4,
+    "explanation": "Docile means accepting of control, so does submissive. Visage refers to the appearance of a person or an animal. Disobedient means disobedient. Repressive means restricting people of their freedom."
+  },
+  {
+    "question": "What poetic element does the stanza below applies:- \nSlithery, slidery, scaly old snake, \nsurely your body must be a mistake. \nYour eyes, mouth and tongue wisely stay on your head. \nIt seems that your body is all tail instead.",
+    "options": [
+      "Anaphora",
+      "Assonance",
+      "Alliteration",
+      "Allusion",
+      "Personification"
+    ],
+    "correctAnswer": 2,
+    "explanation": "It is being advised to you by the developer that you go read in detail about the terms written above."
+  },
+  {
+    "question": "Rodrick was walking down the 21st Street like usual. Then suddenly, a stranger bumped into him and kept going his way without even apologizing. \nRodrick shouted at him, \"Hey you! What ___ fellow!\", the stranger paid him no heed and went his way. \nRodrick finally reached his usual bar where his old friend, Jeremiah, was waiting for him. \"Finally you are here mate— Oh what's with that ___ of yours!\", expressed Jeremiah. \n\"I just met a rude man on my way down here, it's nothing that important.\" \n\"Eh? I hope you didn't run all the way.\" \n\"Huh? What ___ question! Why would I run all the— Oh! you mean that I got scared from just one man? How dare you!\"",
+    "options": [
+      "a rude, chinoiserie, dotage",
+      "a visage, impertinent, an irrelevant",
+      "an abhorrent, effulgence, an impertinent",
+      "an impertinent, visage, an irrelevant",
+      "None of these"
+    ],
+    "correctAnswer": 3,
+    "explanation": "Rude means rude. (*inserts smiley face) \nChinoiserie refers to the european interpretation of the chinese art style. \nDotage refers to the period when a person is old and weak. \nVisage refers to the appearance of a person or an animal. \nEffulgence refers to the state of being radiantly beautiful. \nImpertinent can mean both rude and irrelevant depending upon the context. Irrelevant means of no relevancy."
+  },
+  {
+    "question": "A homophone of 'there' is:-",
+    "options": [
+      "lair",
+      "they're",
+      "here",
+      "where",
+      "All of the above"
+    ],
+    "correctAnswer": 1,
+    "explanation": "Homophones are words which are spelled differently but have the same pronounciation. \n*Same pronounciation, not rhyming."
+  },
+  {
+    "question": "The study of the internal structure of plant comes under ___.",
+    "options": [
+    "Cytology",
+    "Gastronomy",
+    "Taxonomy",
+    "Anatomy",
+    "Cosmetology"
+    ],
+  "correctAnswer": 3,
+  "explanation": "The study of the internal structure of plants is specifically called plant anatomy. Plant anatomy comes under the broader term 'anatomy'. \nGastronomy is the art of cooking and eating good food. \nCytology is the study of cells. \nTaxonomy is the science of naming and classifying organisms. \nCosmetology is the study of cosmetics."
   }
 ]
-      
